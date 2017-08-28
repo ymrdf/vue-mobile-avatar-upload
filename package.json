@@ -4,7 +4,7 @@
   "description": "a mobile component used for cropping and uploading avatar;",
   "main": "index.js",
   "scripts": {
-    "test": "node example/build/dev-server.js"
+    "test": "cd example && node build/dev-server.js"
   },
   "keywords": [
     "vue",
