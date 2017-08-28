@@ -4,13 +4,18 @@
   "description": "a mobile component used for cropping and uploading avatar;",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node example/build/dev-server.js"
   },
   "keywords": [
     "vue",
     "avatar",
-    "crop"
+    "crop",
+    "photo"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymrdf/vue-mobile-avatar-upload.git"
+  },
   "author": "ymrdf",
   "license": "MIT"
 }
