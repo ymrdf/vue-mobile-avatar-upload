@@ -1,0 +1,16 @@
+{
+  "name": "vue-mobile-avatar-upload",
+  "version": "1.0.0",
+  "description": "a mobile component used for cropping and uploading avatar;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "avatar",
+    "crop"
+  ],
+  "author": "ymrdf",
+  "license": "MIT"
+}
