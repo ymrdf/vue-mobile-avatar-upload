@@ -14,7 +14,6 @@
 
 <script>
 import photoCropUploader from 'vue-mobile-avatar-upload'
-//  import photoCropUploader from './myphoto/photo.vue'
 export default {
   components: {
     photoCropUploader
